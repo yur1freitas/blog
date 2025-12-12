@@ -270,3 +270,9 @@ ul,
 ol {
     padding-inline-start: 1rem;
 }
+
+figure,
+image,
+img {
+    max-width: 100%;
+}
