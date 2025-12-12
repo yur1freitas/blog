@@ -1,0 +1,5 @@
+{
+    "build": {"dockerfile": "Dockerfile", "context": "."},
+    "workspaceFolder": "/workspaces/blog",
+    "forwardPorts": [4321]
+}
